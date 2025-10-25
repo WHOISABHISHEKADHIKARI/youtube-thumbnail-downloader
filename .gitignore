@@ -1,0 +1,15 @@
+# OS junk
+Thumbs.db
+.DS_Store
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# Logs and env
+*.log
+.env
+
+# Build outputs (not used here, but safe)
+dist/
+build/

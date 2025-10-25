@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>YouTube Thumbnail Downloader | Free Online Tool</title>
+  <meta name="description" content="Download YouTube video thumbnails instantly in HD, SD, and more." />
+  <meta name="keywords" content="YouTube thumbnail downloader, HD thumbnail saver, free YouTube image tool" />
+  <meta property="og:title" content="YouTube Thumbnail Downloader | Free Online Tool" />
+  <meta property="og:description" content="Download YouTube video thumbnails instantly in HD, SD, MQ and default sizes." />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" />
+  <meta property="og:url" content="https://example.com" />
+
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23ff0000'/%3E%3Cpolygon points='25,20 50,32 25,44' fill='white'/%3E%3C/svg%3E" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand">
+      <div class="logo" aria-hidden="true">▶</div>
+      <h1>YouTube Thumbnail Downloader</h1>
+    </div>
+    <p class="subtitle">Paste a YouTube URL to fetch HD, SD, MQ, and default thumbnails instantly.</p>
+    <div class="theme-switch" title="Toggle dark mode">
+      <label class="switch">
+        <input type="checkbox" id="themeToggle" aria-label="Toggle dark mode" />
+        <span class="slider"></span>
+        <span class="switch-label">Dark mode</span>
+      </label>
+    </div>
+  </header>
+
+  <main>
+    <section class="input-section" aria-labelledby="inputLabel">
+      <h2 id="inputLabel" class="visually-hidden">Enter YouTube video URL</h2>
+      <div class="input-row">
+        <label for="videoUrl" class="visually-hidden">YouTube Video URL</label>
+        <input id="videoUrl" type="url" placeholder="https://www.youtube.com/watch?v=VIDEO_ID" inputmode="url" autocomplete="off" />
+        <button id="getThumbnailBtn" class="primary">Get Thumbnail</button>
+      </div>
+      <p id="errorMsg" class="error" role="alert" aria-live="polite"></p>
+      <div id="recentUrls" class="recent-urls" hidden>
+        <h3>Recent URLs</h3>
+        <ul id="recentList" aria-live="polite"></ul>
+      </div>
+    </section>
+
+    <section id="resultSection" class="result-section" aria-labelledby="resultLabel" hidden>
+      <h2 id="resultLabel" class="visually-hidden">Thumbnail results</h2>
+
+      <div class="video-meta">
+        <p id="videoTitle" class="video-title" aria-live="polite"></p>
+        <div class="meta-actions">
+          <button id="copyVideoIdBtn" class="secondary">Copy Video ID</button>
+          <div class="share-row">
+            <button class="share-btn" id="shareFacebook" aria-label="Share on Facebook">Facebook</button>
+            <button class="share-btn" id="shareTwitter" aria-label="Share on Twitter">Twitter</button>
+            <button class="share-btn" id="shareWhatsApp" aria-label="Share on WhatsApp">WhatsApp</button>
+          </div>
+        </div>
+      </div>
+
+      <div id="thumbnailContainer" class="grid" aria-live="polite"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Made by Abhishek Adhikari | © 2025</p>
+    <p>
+      <a href="https://github.com/WHOISABHISHEKADHIKARI" rel="noopener" target="_blank" title="Visit developer GitHub">GitHub</a>
+    </p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
