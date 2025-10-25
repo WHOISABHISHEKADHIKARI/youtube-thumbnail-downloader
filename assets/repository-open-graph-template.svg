@@ -48,7 +48,7 @@ Edit the text and colors, then export to PNG and upload under GitHub → Setting
 
   <!-- URL placeholder (replace with live demo or GitHub URL) -->
   <text x="300" y="470" fill="#e2e8f0" font-family="Segoe UI, Inter, system-ui, -apple-system, Roboto, Helvetica, Arial" font-size="22">
-    github.com/WHOISABHISHEKADHIKARI/outube-thumbnail-downloader
+    github.com/WHOISABHISHEKADHIKARI/youtube-thumbnail-downloader
   </text>
 
   <!-- Decorative bottom bar -->
