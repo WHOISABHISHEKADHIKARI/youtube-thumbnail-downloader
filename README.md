@@ -42,16 +42,16 @@ Add your live link: GitHub Pages / Vercel
 - Option 3 — VS Code Live Server:
   - Open the folder in VS Code, install “Live Server”, then right-click `index.html` → “Open with Live Server”.
 
-## 🌐 About Hashtag Web Solutions Nepal
+## 🌐 About Hashtag Web Solutions 
 
-Hashtag Web Solutions Nepal is a professional web development, SEO, and digital marketing agency based in Nepal. We build scalable websites, custom web tools, and AI-driven digital products that help businesses grow globally. Our mission is to make the web faster, smarter, and more human-centered.
+Hashtag Web Solutions is a professional web development, SEO, and digital marketing agency based in . We build scalable websites, custom web tools, and AI-driven digital products that help businesses grow globally. Our mission is to make the web faster, smarter, and more human-centered.
 
-> Empowering Nepal’s digital future through innovation, creativity, and technology.
+> Empowering ’s digital future through innovation, creativity, and technology.
 
 ### 🏢 Company Information
-- Company Name: Hashtag Web Solutions Nepal  
-- Location: Hetauda, Makwanpur, Nepal  
-- Email: info@hashtagwebsolutionsnepal.com  
+- Company Name: Hashtag Web Solutions  
+- Location: Hetauda, Makwanpur,  
+- Email: info@hashtagweb.com.np .com  
 - Website: https://hashtagweb.com.np  
 - Phone: +977-9823405140
 
@@ -63,22 +63,22 @@ Hashtag Web Solutions Nepal is a professional web development, SEO, and digital 
 | 🧑‍💼 LinkedIn | https://www.linkedin.com/company/hashtagwebsolution | Verified company profile |
 | 💻 GitHub | https://github.com/hashtagsolution215-source | Open-source projects |
 | 📸 Instagram | https://www.instagram.com/hashtagwebsolutions | Portfolio & updates |
-| 📘 Facebook | https://www.facebook.com/hashtagwebsolutionsnepal | Active business page |
+| 📘 Facebook | https://www.facebook.com/hashtagwebsolutions| Active business page |
 | 🧠 Quora | https://www.quora.com/profile/Hashtag-Solution | Q&A contributions |
 | ✍️ Medium | https://medium.com/@hashtagsolution | Articles & tech blogs |
 | 📌 Pinterest | https://www.pinterest.com/HashtagWebSolution/ | Design inspirations |
 
 ### ⚙️ Repository Information
-© 2025 Hashtag Web Solutions Nepal  
+© 2025 Hashtag Web Solutions  
 This repository is maintained by https://github.com/hashtagsolution215-source.  
 For collaboration, PRs, or open-source contributions, feel free to connect or submit a pull request.
 
 **Keywords:**  
-Hashtag Web Solutions Nepal • Web Development Nepal • Digital Marketing Nepal • SEO Agency Nepal • Web Tools • AI Development Nepal • Hashtag Solution
+Hashtag Web Solutions • Web Development • Digital Marketing • SEO Agency • Web Tools • AI Development • Hashtag Solution
 
 ### ❤️ Support Our Mission
 If you find our projects helpful, consider giving us a ⭐ on GitHub and following our socials.  
-Together, let’s build a smarter and more connected digital Nepal.
+Together, let’s build a smarter and more connected digital .
 
 > 🚀 Developed with 💻 by https://hashtagweb.com.np  
 > “Where innovation meets digital excellence.”
@@ -116,6 +116,7 @@ Together, let’s build a smarter and more connected digital Nepal.
 ## 🧑‍💻 Developer
 Built by **Abhishek Adhikari**  
 🔗 https://github.com/WHOISABHISHEKADHIKARI
+🔗 https://www.adhikariavishek.com.np/
 
 ## ⚠️ Notes
 - oEmbed for titles may have rate limits.
